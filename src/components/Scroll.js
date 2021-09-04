@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Scroll = (props) => {
     return (
@@ -8,4 +8,4 @@ const Scroll = (props) => {
     )
 }
 
-export default Scroll;
+export default Scroll
